@@ -45,9 +45,9 @@ self.mt_class_lobby_open_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2
 
 self.mt_class_class_open_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T05:00:00.000Z&ticket=w84Z9PFG6A1fmwopCVEOR6588rnrF3asL1gIzjOM0v_B3V8UvK0s641XI0y2aNvv"
 
-self.mt_class_class_end_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:30:00.000Z&ticket=w84Z9PFG6A1fmwopCVEOR6588rnrF3asL1gIzjOM0v_B3V8UvK0s641XI0y2aNvv"
+self.mt_class_class_end_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:29:00.000Z&ticket=w84Z9PFG6A1fmwopCVEOR6588rnrF3asL1gIzjOM0v_B3V8UvK0s641XI0y2aNvv"
 
-self.mt_class_lobby_end_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:45:00.000Z&ticket=w84Z9PFG6A1fmwopCVEOR6588rnrF3asL1gIzjOM0v_B3V8UvK0s641XI0y2aNvv"
+self.mt_class_lobby_end_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:44:00.000Z&ticket=w84Z9PFG6A1fmwopCVEOR6588rnrF3asL1gIzjOM0v_B3V8UvK0s641XI0y2aNvv"
 
 self.mt_class_lobby_end_30mins_after_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T07:15:00.000Z&ticket=w84Z9PFG6A1fmwopCVEOR6588rnrF3asL1gIzjOM0v_B3V8UvK0s641XI0y2aNvv"
 
