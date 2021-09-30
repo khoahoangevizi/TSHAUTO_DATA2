@@ -19,7 +19,7 @@ self.scheduled_participant_name = "Prospect Autotest Brittany Hansen"
 
 self.scheduled_on_time_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-27T16:45:00.000Z&ticket=QsMx9GidKRm1_Ay3s2G72k7XX21AsY95TdMw2zkjDPzPvhnxRg-R8qlZ0861tW8Y"
 
-self.scheduled_before_30mins_url = "https://tsh.onelink.me/fkK9/dc737c8e?orceTime=2030-04-27T16:15:00.000Z&ticket=QsMx9GidKRm1_Ay3s2G72k7XX21AsY95TdMw2zkjDPzPvhnxRg-R8qlZ0861tW8Y"
+self.scheduled_before_30mins_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-27T16:15:00.000Z&ticket=QsMx9GidKRm1_Ay3s2G72k7XX21AsY95TdMw2zkjDPzPvhnxRg-R8qlZ0861tW8Y"
 
 self.scheduled_after_end_30mins_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-27T18:45:00.000Z&ticket=QsMx9GidKRm1_Ay3s2G72k7XX21AsY95TdMw2zkjDPzPvhnxRg-R8qlZ0861tW8Y"
 
